@@ -1,8 +1,8 @@
 [
   {
-    "title":"Managing emails effectively", "slug": "post-1"
+    "title":"Managing emails effectively", "slug": "post-1", "date": "17 sept 2024", "excerpt": "This is the first blog post"
   },
   {
-    "title":"Interview with founder X", "slug": "post-2"
+    "title":"Interview with founder X", "slug": "post-2", "date": "14 sept 2024", "excerpt": "This is the second blog post in this"
   }
 ]
