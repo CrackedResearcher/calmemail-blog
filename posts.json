@@ -8,22 +8,5 @@
     "url": "https://res.cloudinary.com/dtrox6qsp/image/upload/v1726591861/mesh-833_kbln2z.png",
     "titleColor": "black",
     "dateColor": "black"
-  },
-  {
-    "slug": "mastering-react",
-    "title": "Mastering React: Tips and Tricks",
-    "excerpt": "Get the most out of React with these essential tips and best practices.",
-    "date": "Sep 5, 2024",
-    "url": "https://res.cloudinary.com/dtrox6qsp/image/upload/v1726591826/mesh-638_yz3lm9.png",
-    "titleColor": "black",
-    "author": "Alex Johnson",
-    "dateColor": "black"
-  },
-  {
-    "slug": "navigating-startups",
-    "title": "Navigating the Startup World: A Founder’s Guide",
-    "excerpt": "A comprehensive guide for founders navigating the challenges of startup life.",
-    "date": "Sep 1, 2024",
-    "author": "Emily Davis"
   }
 ]
