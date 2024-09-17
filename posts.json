@@ -4,5 +4,8 @@
   },
   {
     "title":"Interview with founder X", "slug": "post-2", "date": "14 sept 2024", "excerpt": "This is the second blog post in this"
+  },
+  {
+    "title":"Interview with founder Y", "slug": "post-3", "date": "20 sept 2024", "excerpt": "This is the third blog post in this"
   }
 ]
