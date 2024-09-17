@@ -25,26 +25,5 @@
     "excerpt": "A comprehensive guide for founders navigating the challenges of startup life.",
     "date": "Sep 1, 2024",
     "author": "Emily Davis"
-  },
-  {
-    "slug": "css-for-beginners",
-    "title": "CSS for Beginners: Building Beautiful Websites",
-    "excerpt": "Learn the basics of CSS and how to create visually appealing websites.",
-    "date": "Aug 25, 2024",
-    "author": "Michael Lee"
-  },
-  {
-    "slug": "understanding-microservices",
-    "title": "Understanding Microservices Architecture",
-    "excerpt": "A deep dive into microservices and why they are a game-changer for modern applications.",
-    "date": "Aug 20, 2024",
-    "author": "Sara Wilson"
-  },
-  {
-    "slug": "remote-work-best-practices",
-    "title": "Remote Work Best Practices for Maximum Productivity",
-    "excerpt": "Tips and strategies for staying productive while working remotely.",
-    "date": "Aug 15, 2024",
-    "author": "David Brown"
   }
 ]
